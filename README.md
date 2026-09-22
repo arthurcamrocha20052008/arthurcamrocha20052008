@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Arthur Camrocha
 
-<!--
-**arthurcamrocha20052008/arthurcamrocha20052008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor em formação | Estudante de TI e Ciência de Dados**
 
-Here are some ideas to get you started:
+Sou estudante de **Tecnologia da Informação pela UFMS** e de **Ciência de Dados pelo CEUB**. Tenho interesse em programação, desenvolvimento de software, banco de dados, análise de dados e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou desenvolvendo minhas habilidades técnicas por meio de estudos, projetos pessoais e atividades acadêmicas, buscando transformar conhecimentos teóricos em soluções práticas.
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Tecnologia da Informação — UFMS**
+- 📊 Estudante de **Ciência de Dados — CEUB**
+- 🐍 Estudando e praticando **Python**
+- 🗄️ Desenvolvendo conhecimentos em **MySQL e Banco de Dados**
+- 🔧 Aprendendo **Git e GitHub**
+- 📈 Interessado em **Dados, BI e Inteligência Artificial**
+- 💻 Interesse em **desenvolvimento de software e programação**
+- 🧠 Buscando evoluir constantemente minhas habilidades técnicas
+- 🤝 Aberto a aprender, colaborar e participar de novos projetos
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+### 💻 Programação
+- Python
+- Lógica de Programação
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Algoritmos
+
+### 🗄️ Banco de Dados
+- MySQL
+- SQL
+- Modelagem de Banco de Dados
+- SGBD
+
+### 📊 Dados e Inteligência Artificial
+- Análise de Dados
+- ETL
+- Business Intelligence
+- Power BI
+- Fundamentos de Machine Learning
+- Interesse em Inteligência Artificial
+
+### 🌐 Desenvolvimento
+- HTML
+- CSS
+- APIs
+- Desenvolvimento de projetos web
+
+### 🔧 Ferramentas
+- Git
+- GitHub
+- VS Code
+- MySQL Workbench
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+🐍 Python                  ███████████████░░░░░
+🗄️ MySQL / SQL             █████████████░░░░░░░
+📊 Ciência de Dados        ███████████░░░░░░░░░
+🤖 Inteligência Artificial ████████░░░░░░░░░░░░
+🔧 Git & GitHub            ████████████░░░░░░░░
+💻 Desenvolvimento         ███████████░░░░░░░░░
