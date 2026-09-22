@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Arthur Camrocha
+# 👋 Olá! Eu sou Arthur Campos rocha
 
 💻 **Desenvolvedor em formação | Estudante de TI e Ciência de Dados**
 
